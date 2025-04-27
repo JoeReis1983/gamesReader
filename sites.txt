@@ -1,0 +1,12 @@
+Site | O que rola lá | Comentário
+IGN (https://www.ign.com/articles/feed) | Tudo: games, filmes, séries, tech. | RSS oficial ativo. Padrão ouro.
+Polygon (https://www.polygon.com/rss/index.xml) | Games + Cultura pop. | Feed atualizado, ótimo pra diversidade.
+GameSpot (https://www.gamespot.com/feeds/mashup/) | Games hardcore e notícias rápidas. | Puxa muito update quente.
+Kotaku (https://kotaku.com/rss) | Notícias + colunas + tretas. | Meio "zoeira" às vezes, mas tem muita bomba boa.
+Eurogamer (https://www.eurogamer.net/?format=rss) | Notícias mais sérias, análises profundas. | Ótimo pra trazer credibilidade.
+PC Gamer (https://www.pcgamer.com/rss/) | Focado em PC games (óbvio). | Perfeito se quiser nichar depois.
+The Verge - Gaming (https://www.theverge.com/gaming/rss/index.xml) | Mistura games com tecnologia. | Bom pra pegar tendência e inovação.
+Nintendo Life (https://www.nintendolife.com/feeds/news) | Só Nintendo. | Se quiser abrir uma seção só pra Big N.
+Push Square (https://www.pushsquare.com/feeds/news) | Só PlayStation. | Ideal pra seção de PS5/PS4.
+Pure Xbox (https://www.purexbox.com/feeds/news) | Só Xbox. | Dá pra cobrir o outro lado da guerra também.
+Rock Paper Shotgun (https://www.rockpapershotgun.com/feed) | PC Games + reviews mais underground. | Alternativo e inteligente.
